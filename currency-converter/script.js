@@ -1,4 +1,4 @@
-const base_url="https://cdn.jsdelivr.net/gh/fawazahmed0/currency-api@1/latest/currencies";
+const base_url="https://api.currencyapi.com/v3/latest?apikey=cur_live_7UStkUqQNBmahSoy8K635tE3Sjr5fK1UVPmVloZ2";
 
 const dropdowns = document.querySelectorAll(".dropdown select");
 
